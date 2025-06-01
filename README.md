@@ -40,3 +40,15 @@ Google Fonts for typography
 
 License
 This project is open-source and available under the MIT License.
+
+
+
+
+sample output shots:
+
+![Screenshot 2025-05-30 150109](https://github.com/user-attachments/assets/2bc5baae-0377-446b-b0f9-9739421d4606)
+
+![Screenshot 2025-05-30 150148](https://github.com/user-attachments/assets/b3fce5ec-08d6-47b6-abd2-a9835c1980b2)
+
+
+
